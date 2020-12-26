@@ -1,1 +1,1 @@
-# animationpractice
+文字アニメーションの練習　あとgithubよくわからん
